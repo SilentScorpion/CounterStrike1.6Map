@@ -1,0 +1,1 @@
+# CounterStrike1.6Map
